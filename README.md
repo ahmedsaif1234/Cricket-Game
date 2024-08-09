@@ -1,3 +1,2 @@
-# Recipe-Manager
-# Cricket-Game
-# Cricket-Game
+# Create Cricket-Game-App Using HTML,CSS and JavaScript
+
